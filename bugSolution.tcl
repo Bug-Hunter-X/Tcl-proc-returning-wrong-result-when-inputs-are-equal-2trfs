@@ -1,0 +1,1 @@
+proc goodproc {a b} {if {$a > $b} {return $a} elseif {$b > $a} {return $b} else {return $a}} 
